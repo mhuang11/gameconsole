@@ -48,7 +48,10 @@ I assumed that "before Black Friday" is Nov. 15-25 of any year and "before Chris
 ![image](https://github.com/mhuang11/gameconsole/assets/78035136/489d5bef-5d57-4926-af0e-a216b4718351)
 
 7. Provide recommendations on how to deal with missing data in the file.
+
 Example 1: For missing values in dates.Discontinued, fill in today's date (As of now, "2023-06-02").
+
 Example 2: For missing values in dates.Comment, fill in with "No Comment".
+
 ![image](https://github.com/mhuang11/gameconsole/assets/78035136/f8836803-1320-42f6-868e-af382565001a)
 
