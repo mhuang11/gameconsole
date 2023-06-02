@@ -11,8 +11,10 @@ A historic list of all console games related between 1980 and 2015.
 A historic list of all console platforms (such as Wii, Play Station, Xbox) and information about them.
 
 These two datasets were imported into SQL. Here are sample images of the first 10 rows in each table:
-![image](https://github.com/mhuang11/gameconsole/assets/78035136/f5ae9f78-d82d-4269-9fcf-b464521ec176)
-![image](https://github.com/mhuang11/gameconsole/assets/78035136/1ed98968-14ca-45fa-af41-51a53bfb2702)
+
+![image](https://github.com/mhuang11/gameconsole/assets/78035136/f22946be-b42c-4d17-b51f-8fdc95ea65cb)
+
+![image](https://github.com/mhuang11/gameconsole/assets/78035136/5b81430e-3fd0-4aa2-854d-71ca23f3b339)
 
 ## Analysis
 
